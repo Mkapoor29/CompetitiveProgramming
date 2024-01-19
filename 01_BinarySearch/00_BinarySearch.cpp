@@ -17,3 +17,4 @@ public:
         return -1; 
     }
 };
+// for larger calculations mid = low + ((high - low) / 2)
